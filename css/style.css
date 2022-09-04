@@ -628,7 +628,7 @@ display: none;
     }
     aside{
         position: fixed;
-        left: -100;
+        left: -100px;
         background:var(--color-white);
         z-index:10;
         width: 18rem;
